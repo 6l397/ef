@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\marketplace3.props" />
+</Project>
